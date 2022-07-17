@@ -15,5 +15,10 @@ public class AppiumTest {
 	{
 		System.out.println("IOS apps");
 	}
+	
+	public void AndroidApps()
+	{
+		System.out.println("Android apps");
+	}
 
 }
