@@ -19,4 +19,8 @@ public class SeleniumTest {
 		
 	}
 
+	public void elementUif() {
+		System.out.println("American guy");
+		
+	}
 }
